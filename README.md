@@ -101,7 +101,7 @@ A complete run finishes GSM8K evaluation and exits successfully. Outputs use the
 
 ## Acknowledgements
 
-Built on [Booster](https://github.com/git-disl/Booster).
+The code is built on[Booster](https://github.com/git-disl/Booster).
 
 ## Citation
 
