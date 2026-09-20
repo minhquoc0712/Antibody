@@ -1,0 +1,48 @@
+# Ignore Mac system files
+.DS_store
+
+# Ignore node_modules folder
+node_modules
+
+__pycache__
+
+pic_draw
+
+ckpt
+
+cache
+
+# Ignore files related to API keys
+*.env
+huggingface_token.txt
+
+# Ignore SASS config files
+*.sass-cache
+
+# Ignore SASS config files
+*.pt
+
+# Ignore SASS config files
+*.log
+
+*.out
+
+# Ignore SASS config files
+.idea
+
+*.pyc
+
+fig
+
+*draw_pic.py
+
+*prune_test.py
+
+*visual_test.py
+
+wandb
+hub
+logs
+
+# Do not commit PDFs
+*.pdf
